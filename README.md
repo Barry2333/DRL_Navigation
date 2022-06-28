@@ -4,6 +4,8 @@ Implementation of DRL robot navigation based on https://github.com/reiniscimurs/
 
 Experiemnt videos can be view at: https://www.youtube.com/watch?v=HkqUZSsT5a0&t=1s
 
+Computer Setup with ROS Melodic on Ubuntu 18.04 with python 3.6.9 and pytorch 1.10.
+
 Clone the repository:
 ```shell
 $ cd ~
