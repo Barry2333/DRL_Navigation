@@ -34,9 +34,8 @@ python3 train.py
 ### Run the test with my trained models
 python3 test_agent.py
 
-### Change the simulation world
+### Change the simulation world, go to the file below, check the "world_name"
 cd ~/catkin_ws/src/multi_robot_scenario/launch/empty_world.launch
-check the "world_name"
 ```
 
 To kill the training process:
